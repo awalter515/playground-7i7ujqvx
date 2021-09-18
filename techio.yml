@@ -8,3 +8,7 @@ plan:
   statement: markdowns/part3.md
 - title: Exercice
   statement: markdowns/part4.md
+projects:
+  python:
+    root: /universe
+    runner: python:3  
