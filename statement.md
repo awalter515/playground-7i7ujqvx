@@ -1,6 +1,6 @@
 # Welcome!
 
-This Python template lets you get started quickly with a simple one-page playground.
+Ceci est un test pour créer un playground tech.io pour les cours de codage 2021-2022 de l'AMY.
 
 ```python runnable
 print('Hello World!')
