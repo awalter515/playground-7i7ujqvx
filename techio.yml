@@ -1,4 +1,4 @@
 title: Cours de codage AMY 2021-2022
 plan:
-- title: Python Snippet
-  statement: statement.md
+- title: Introduction
+  statement: markdowns/welcome.md
