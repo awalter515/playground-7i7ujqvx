@@ -4,5 +4,7 @@ plan:
   statement: markdowns/part1.md
 - title: Première partie
   statement: markdowns/part2.md
-- title : Quizz
+- title: Quizz
   statement: markdowns/part3.md
+- title: Exercice
+  statement: markdowns/part4.md
