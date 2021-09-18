@@ -1,7 +1,7 @@
-#Ceci est un terst de quizz
+#Ceci est un test de quizz
 
-?[Quelk est le langage de programmation utilisé]
+?[Quel est le langage de programmation utilisé]
 -[ ] COBOL
 -[ ] C++
--[x] Pyhton
+-[x] Python
 -[ ] javascript
