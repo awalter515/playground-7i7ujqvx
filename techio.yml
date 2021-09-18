@@ -11,5 +11,5 @@ plan:
 
 projects:
   python:
-    root: /python-project
+    root: /universe
     runner: python:3  
